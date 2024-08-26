@@ -159,7 +159,7 @@ a {
 
 .catalog{
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
     padding-top: 60px;
     margin-bottom: 120px;
 }
